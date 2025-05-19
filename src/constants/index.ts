@@ -142,48 +142,48 @@ const technologies: TTechnology[] = [
 
 const experiences: TExperience[] = [
   {
-    title: "DevOps Engineering Intern",
+    title: "DevOps Engineer, Intern",
     companyName: "Nasdaq",
     prospective: true,
     icon: nasdaq,
     iconBg: "#058cbc",
-    date: "Sep 2024 - Dec 2024",
+    date: "Sep 2024 - Present",
     points: [
-      "Architecting and maintaining CI/CD pipelines with Jenkins, Maven, and GitLab, ensuring seamless deployment and reducing risks in high-performance trading systems.",
-      "Implementing IaC solutions using Terraform and CloudFormation to create scalable and secure infrastructure while maintaining platform integrity.",
-      "Designing and deploying monitoring systems with Prometheus and Grafana, ensuring real-time visibility and proactive issue resolution in trading systems.",
-      "Spearheading the migration of legacy Spring Boot microservices from on-premises to AWS cloud, enhancing scalability, efficiency, and integration.",
+      "Increased GitLab CI/CD pipeline success rates for high-performance trading systems by 86% through Sonatype scan integration.",
+      "Decreased critical vulnerabilities by 93% by generating SBOM-based security reports for Java, Node, and Python projects.",
+      "Created a version control system for AWS RDS instances enabling branch-specific schema, schema reverts, and fast-forwards.",
+      "Decreased CI/CD pipeline runtime by 80% by caching public Maven packages and Docker images using proxy repositories.",
+      "Improved scalability with Terraform IaC, cutting manual configuration time by 57%."
     ],
   },
   {
-    title: "DevOps Engineering Intern",
+    title: "DevSecOps Engineer, Intern",
     companyName: "Dandelion Networks",
     icon: dandelion,
     iconBg: "#ffffff",
     date: "Jan 2024 - Apr 2024",
     points: [
-      "Automated image deletion processes across multiple EC2 instances using Jenkins and Ansible, reclaiming 42.75% of storage space.",
-      "Deployed Grafana and Prometheus for EC2 monitoring, leading to a 150% rise in actionable insights for improved decision-making and system optimization.",
-      "Reduced manual configuration overhead by 97% using service discovery with Terraform and Prometheus, enabling automatic detection of all blockchain nodes within the VPC.",
-      "Enhanced Grafana Loki logging efficiency by implementing a buffer and batch system, cutting EBS storage usage by 12% and reducing costs through data transfers to S3.",
-      "Streamlined blockchain data management by storing database snapshots in EFS and periodically transferring them to S3, ensuring cost efficiency and long-term data integrity.",
+      "Automated image deletion with Jenkins and Ansible, reclaiming 42.75% of EBS storage space.",
+      "Deployed Grafana and Prometheus for EC2 monitoring, boosting actionable insights by 150%.",
+      "Streamlined EC2 instance monitoring setup, reducing manual effort by 97% with Terraform and Prometheus.",
+      "Created a custom message queuing service to transfer container logs to S3, reducing VM storage costs by 12%.",
     ]
   },
   {
-    title: "System Administrator Intern",
+    title: "System Administrator, Intern",
     companyName: "Cogeco Connexion",
     icon: cogeco,
     iconBg: "#001F62",
     date: "May 2023 - Sep 2023",
     points: [
-      "Created a cloud cost management application to optimize infrastructure costs within GCP, resulting in significant monthly expense reductions.",
-      "Built a Flask microservice using Pandas to calculate interquartile ranges and notify project owners of daily cost anomalies, enhancing cost control measures.",
-      "Implemented a Flask microservice for accurate project cost forecasting using ARIMA model, facilitating improved budget planning and resource allocation.",
-      "Collaborated with team to achieve annual savings of $123,375 USD by implementing optimized infrastructure, proactive cost anomaly detection, and accurate cost forecasting."
+      "Developed a GCP cost management app, significantly reducing monthly expenses.",
+      "Built a Flask microservice with Pandas to detect cost anomalies, saving $2,700 annually.",
+      "Created a Flask microservice using the ARIMA model for accurate cost forecasting and budget planning.",
+      "Saved $123,375 annually by optimizing infrastructure, detecting cost anomalies, and improving forecasting.",
     ],
   },
   {
-    title: "Software Developer Intern",
+    title: "Software Engineer, Intern",
     companyName: "BlackBerry",
     icon: bb,
     iconBg: "#E6DEDD",

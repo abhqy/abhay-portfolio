@@ -46,7 +46,7 @@ export const config: TConfig = {
   },
   hero: {
     name: "abhay.",
-    p: ["a 4B CS student at UWaterloo interested in", "cloud technologies and full-stack development."],
+    p: ["a CS graduate from UWaterloo interested in", "cloud technologies and full-stack development."],
   },
   contact: {
     p: "Get in touch",
@@ -67,7 +67,7 @@ export const config: TConfig = {
     about: {
       p: "About Me",
       h2: "Overview.",
-      content: `I'm a fourth-year Computer Science student specializing in full-stack development and cloud infrastructure. Proficient in languages like C++, Python, and TypeScript, I've worked with technologies such as GCP, AWS, Kubernetes, Terraform, Node.js, Flask, and React.js.
+      content: `I'm a Computer Science graduate specializing in full-stack development and cloud infrastructure. Proficient in languages like Python, TypeScript, and C++ I've worked with technologies such as GCP, AWS, Kubernetes, Terraform, Node.js, Flask, and React.js.
       From optimizing cloud app performance to leading Agile projects, my journey showcases a commitment to innovation and growth. Explore further to learn about my experiences and skills!`,
     },
     experience: {
