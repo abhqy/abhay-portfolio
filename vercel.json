@@ -1,0 +1,14 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "host",
+          "value": "resume.amenon.me"
+        }
+      ],
+      "destination": "/public/resume.pdf"
+    }
+  ]
+}
