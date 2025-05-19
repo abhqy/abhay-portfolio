@@ -1,14 +1,14 @@
 {
-  "rewrites": [
+  "redirects": [
     {
-      "source": "/(.*)",
+      "source": "/",
       "has": [
         {
           "type": "host",
           "value": "resume.amenon.me"
         }
       ],
-      "destination": "/resume.pdf"
+      "destination": "https://amenon.me/resume.pdf"
     }
   ]
 }
